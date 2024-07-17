@@ -1,6 +1,6 @@
 
 import 'package:dio/dio.dart';
-import 'package:mvvm_example/core/api_endpoints.dart';
+import 'package:mvvm_example/core/constants/api_endpoints.dart';
 import 'package:mvvm_example/dtos/photo_dto.dart';
 
 class PhotoRepository {
